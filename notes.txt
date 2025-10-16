@@ -1,0 +1,6 @@
+Template Inheritance: creating a main HTML file that contains the
+skeleton and that applies to all Flask pages
+    You only need to override the parts that need to be changed. 
+
+app.config = dictionary-like object in Flask
+used for storing configuration variables.
