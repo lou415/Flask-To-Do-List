@@ -1,0 +1,17 @@
+.env
+*.env
+__pychace__/
+*.py[cod]
+*$py.class
+*.so
+env/
+venv/
+ENV/
+instance/
+*.db
+*sqlite
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
